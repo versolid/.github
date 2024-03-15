@@ -20,4 +20,6 @@ If you're intrigued by Versolid and would like to learn more about our cutting-e
 
 Thank you for your interest in Versolid! We're excited to have you on board and look forward to your contributions and feedback.
 
+[![Discord](https://img.shields.io/discord/1158078892813328404?color=738ad6&label=Join%20the%20Discord%20server&logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.gg/MrnHuttW)
+
 Happy versioning! 🚀
